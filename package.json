@@ -1,0 +1,50 @@
+{
+  "_from": "style-rem-loader",
+  "_id": "style-rem-loader@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha1-Wi2HcY/u/R8uLvGeWv7BFjzgb9c=",
+  "_location": "/style-rem-loader",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "style-rem-loader",
+    "name": "style-rem-loader",
+    "escapedName": "style-rem-loader",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npm.taobao.org/style-rem-loader/download/style-rem-loader-1.0.0.tgz",
+  "_shasum": "5a2d87718feefd1f2e2ef19e5afec1163ce06fd7",
+  "_spec": "style-rem-loader",
+  "_where": "G:\\gzshop-h5",
+  "author": {
+    "name": "kally"
+  },
+  "bugs": {
+    "email" : "y57331214@163.com",
+    "url": "https://github.com/kally123456/style-rem-loader.git"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "loader-utils": "^1.1.0"
+  },
+  "deprecated": false,
+  "description": "一个可以将vue标签内样式px转换rem的 webpack loader",
+  "license": "MIT",
+  "main": "index.js",
+  "name": "style-rem-loader",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kally123456/style-rem-loader.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
